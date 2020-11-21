@@ -1,0 +1,29 @@
+h1{
+    color:blue
+}
+
+a{
+    color: brown;
+}
+.border{
+    background-color: aqua;
+    border: solid;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.item{
+background-color: rgb(65, 42, 165);
+    border: thin;
+border-color: blue;
+display: flex;
+justify-content: space-evenly;
+}
+
+.header{
+    background-color: chartreuse;
+    border: solid;
+    border-color: darkgoldenrod;
+    display: flex;
+    justify-content: stretch;
+}
